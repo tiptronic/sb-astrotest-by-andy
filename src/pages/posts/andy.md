@@ -13,7 +13,8 @@ description: Just a Hello Andy Fuchs!
 
 This is so cool!
 
-Do variables work {frontmatter.value + frontmatter.value}?
+Do variables work?
+Should be 256: {frontmatter.value + frontmatter.value}
 
 ```javascript
 // Example JavaScript

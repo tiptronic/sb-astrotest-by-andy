@@ -2,7 +2,7 @@
 setup: |
   import Layout from '../../layouts/BlogPost.astro'
   import Cool from '../../components/Author.astro'
-title: Hello Andy2!
+title: Hello Andy in index.md!
 publishDate: 12 Sep 2021
 name: Nate Moore
 value: 128
